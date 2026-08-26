@@ -1,15 +1,17 @@
 {
-  "versionCode": 2,
-  "versionName": "1.0.1",
-  "releaseTag": "v1.0.1",
-  "apkUrl": "https://github.com/nexus-tv/NexusTV/releases/download/v1.0.1/NexusTV-v1.0.1.apk",
-  "sha256": "PUT_REAL_SHA256_HERE",
-  "apkSize": 0,
+  "versionCode": 10200,
+  "versionName": "1.2.0",
+  "releaseTag": "v1.2.0",
+  "apkUrl": "https://github.com/nexus-tv/NexusTV/releases/download/v1.2.0/NexusTV-v1.2.0.apk",
+  "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "apkSize": 45283920,
   "mandatory": false,
-  "minimumSupportedVersionCode": 1,
+  "minimumSupportedVersionCode": 10100,
   "releaseNotes": [
-    "Bug fixes",
-    "Performance improvements",
-    "Playback improvements"
-  ]
+    "Added high-performance GitHub Auto-Updater",
+    "Enhanced ExoPlayer buffer management and 4K stream decoding",
+    "Optimized Android TV D-Pad navigation",
+    "Security patches and stability improvements"
+  ],
+  "publishedAt": "2026-08-24T12:00:00Z"
 }
