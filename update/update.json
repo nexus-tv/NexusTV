@@ -2,7 +2,7 @@
   "versionCode": 10100,
   "versionName": "1.1.0",
   "releaseTag": "v1.1.0",
-  "apkUrl": "https://github.com/nexus-tv/NexusTV/releases/download/v1.1.0/NexusTV-v1.1.0.apk",
+  "apkUrl": "https://yfcijwjuypqcnpiisgax.supabase.co/storage/v1/object/sign/NexusTV/releases/download/v1.1.0/NexusTV-v1.1.0.apk?token=eyJraWQiOiIyYjQxZjIzMS1iZTUwLTRiNTAtYWU0ZC03MGU2MDZhMDJjZTYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJOZXh1c1RWL3JlbGVhc2VzL2Rvd25sb2FkL3YxLjEuMC9OZXh1c1RWLXYxLjEuMC5hcGsiLCJzY29wZSI6ImRvd25sb2FkIiwiaWF0IjoxNzg3NzMwMTEyLCJleHAiOjE4MTkyNjYxMTJ9.9HRFzsUucqG7d_gS4VyDheuNq3t-y3KwiZ5MnhCkURw",
   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "apkSize": 45283920,
   "mandatory": false,
